@@ -8,7 +8,7 @@ As the title says - a while ago I was doing something with my operating system P
 ## Contents
 - How I identified the cause of the issue
 - Fix
-- Thoguhts
+- Thoughts
 
 ## (1) How I identified the cause of the issue
 First I checked what's filling up /boot/efi. So ran ```du -h``` in /boot and the result was below
